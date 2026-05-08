@@ -1,30 +1,22 @@
-﻿Microsoft Visual Studio Solution File, Format Version 12.00
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.5.2.0
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCenterApi", "CallCenterApi.csproj", "{CAB59DD4-AC8F-BA93-B17B-48F2AF3F19DB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCenterApi", "CallCenterApi\CallCenterApi.csproj", "{93F1DEB2-C4C1-4079-91B4-3404B1DF4C3D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallCenterApi", "CallCenterApi\CallCenterApi.csproj", "{E9391324-9D29-460A-A36B-37B94C92899C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CAB59DD4-AC8F-BA93-B17B-48F2AF3F19DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CAB59DD4-AC8F-BA93-B17B-48F2AF3F19DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CAB59DD4-AC8F-BA93-B17B-48F2AF3F19DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CAB59DD4-AC8F-BA93-B17B-48F2AF3F19DB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{93F1DEB2-C4C1-4079-91B4-3404B1DF4C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93F1DEB2-C4C1-4079-91B4-3404B1DF4C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93F1DEB2-C4C1-4079-91B4-3404B1DF4C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93F1DEB2-C4C1-4079-91B4-3404B1DF4C3D}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7BA02F6C-E337-4A3C-BA2F-4DF992F27CD4}
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9391324-9D29-460A-A36B-37B94C92899C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9391324-9D29-460A-A36B-37B94C92899C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9391324-9D29-460A-A36B-37B94C92899C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9391324-9D29-460A-A36B-37B94C92899C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
